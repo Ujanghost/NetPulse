@@ -31,7 +31,7 @@ The application will launch a window displaying real-time network metrics and va
 
 ## Screenshot
 
-![NetPulse Screenshot](ss.png)
+![NetPulse Screenshot](ss.jpg)
 
 ## Future Improvements
 
